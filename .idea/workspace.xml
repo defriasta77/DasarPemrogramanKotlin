@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Whitespaces.kt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BlokdanKomentar.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhitespacesKt">
+  <component name="RunManager" selected="Kotlin.BlokdanKomentarKt">
     <configuration name="BlokdanKomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdanKomentarKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -71,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.BlokdanKomentarKt" />
+        <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainAPPKt" />
       </list>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725341554570</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add Whitespaces.kt">
+      <created>1725345602889</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345602889</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
