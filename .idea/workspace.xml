@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Literal.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BlokdanKomentar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" afterDir="false" />
+    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Whitespaces.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Whitespaces.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BlokdanKomentarKt">
+  <component name="RunManager" selected="Kotlin.WhitespacesKt">
     <configuration name="BlokdanKomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdanKomentarKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -72,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.BlokdanKomentarKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
+        <item itemvalue="Kotlin.BlokdanKomentarKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.MainAPPKt" />
       </list>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725339904414</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Whitespaces.kt">
+      <created>1725341554570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341554570</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +147,7 @@
     <MESSAGE value="stater project" />
     <MESSAGE value="add mainAPP.kt" />
     <MESSAGE value="add Literal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Literal.kt" />
+    <MESSAGE value="add Whitespaces.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Whitespaces.kt" />
   </component>
 </project>
