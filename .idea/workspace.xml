@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add BlokdanKomentar.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
+    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Variabel.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarvsVal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VariabelKt">
+  <component name="RunManager" selected="Kotlin.VarvsValKt">
     <configuration name="BlokdanKomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdanKomentarKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -54,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAPPKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAPPKt" />
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+    <configuration name="VarvsValKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarvsValKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VarvsValKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdanKomentarKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.LiteralKt" />
-        <item itemvalue="Kotlin.MainAPPKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725345920046</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add Variabel.kt">
+      <created>1725346570311</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346570311</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +177,7 @@
     <MESSAGE value="add Literal.kt" />
     <MESSAGE value="add Whitespaces.kt" />
     <MESSAGE value="add BlokdanKomentar.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add BlokdanKomentar.kt" />
+    <MESSAGE value="add Variabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Variabel.kt" />
   </component>
 </project>
