@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Variabel.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VarvsVal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VarvsVal.kt" afterDir="false" />
+    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Number.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstantsLiteral.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TipeDataKt">
+  <component name="RunManager" selected="Kotlin.ConstantsLiteralKt">
     <configuration name="BlokdanKomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdanKomentarKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -49,8 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
+    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TipeDataKt" />
+        <item itemvalue="Kotlin.ConstantsLiteralKt" />
+        <item itemvalue="Kotlin.NumberKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdanKomentarKt" />
-        <item itemvalue="Kotlin.WhitespacesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725346841635</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add TipeData.kt">
+      <created>1725347955994</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347955994</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add Number.kt">
+      <created>1725348220854</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725348220854</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +199,8 @@
     <MESSAGE value="add Whitespaces.kt" />
     <MESSAGE value="add BlokdanKomentar.kt" />
     <MESSAGE value="add Variabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Variabel.kt" />
+    <MESSAGE value="add TipeData.kt" />
+    <MESSAGE value="add Number.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Number.kt" />
   </component>
 </project>
