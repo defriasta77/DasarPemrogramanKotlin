@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add Number.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstantsLiteral.kt" afterDir="false" />
+    <list default="true" id="cb7e82d4-046d-44fe-b88f-e7c9f03b7fa5" name="Changes" comment="add ConstantsLiteral.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnderscoreLiteral.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ConstantsLiteralKt">
-    <configuration name="BlokdanKomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlokdanKomentarKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.UnderscoreLiteralKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -56,6 +49,13 @@
     </configuration>
     <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnderscoreLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreLiteralKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnderscoreLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.NumberKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.BlokdanKomentarKt" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725348220854</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add ConstantsLiteral.kt">
+      <created>1725349029233</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349029233</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +208,7 @@
     <MESSAGE value="add Variabel.kt" />
     <MESSAGE value="add TipeData.kt" />
     <MESSAGE value="add Number.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Number.kt" />
+    <MESSAGE value="add ConstantsLiteral.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ConstantsLiteral.kt" />
   </component>
 </project>
