@@ -41,14 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PerintahMasukkanKotlinKt">
-    <configuration name="FungsiAnggotaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FungsiAnggotaStringKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ProgramKalkulatorSederhanaKt">
     <configuration name="PenerapanStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PenerapanStringKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -70,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProgramKalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramKalkulatorSederhanaKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProgramSandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgramSandiMorseKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ProgramKalkulatorSederhanaKt" />
         <item itemvalue="Kotlin.PerintahMasukkanKotlinKt" />
         <item itemvalue="Kotlin.ProgramSandiMorseKt" />
         <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
-        <item itemvalue="Kotlin.FungsiAnggotaStringKt" />
       </list>
     </recent_temporary>
   </component>
