@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27858161-6dff-41f4-bba8-438d0190a263" name="Changes" comment="add Boolean.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27858161-6dff-41f4-bba8-438d0190a263" name="Changes" comment="add String.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTemplates.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringKt">
+  <component name="RunManager" selected="Kotlin.StringTemplatesKt">
     <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -52,13 +51,6 @@
     </configuration>
     <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharacterKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.PenerapanEksplisitCharKt" />
         <item itemvalue="Kotlin.CharacterKt" />
-        <item itemvalue="Kotlin.KonversiEksplisitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725930814292</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add String.kt">
+      <created>1725930992913</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725930992913</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add String.kt">
+      <created>1725931068253</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931068253</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +286,7 @@
     <MESSAGE value="add Character.kt" />
     <MESSAGE value="add PenerapanEksplisitChar.kt" />
     <MESSAGE value="add Boolean.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Boolean.kt" />
+    <MESSAGE value="add String.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add String.kt" />
   </component>
 </project>
