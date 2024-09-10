@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27858161-6dff-41f4-bba8-438d0190a263" name="Changes" comment="add PenerapanString.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramCaesarChiper.kt" afterDir="false" />
+    <list default="true" id="27858161-6dff-41f4-bba8-438d0190a263" name="Changes" comment="add PerintahMasukkanKotlin.kt">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PerintahMasukkanKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PerintahMasukkanKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +278,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725931696040</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add ProgramCaesarChiper.kt">
+      <created>1725931766818</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931766818</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add ProgramSandiMorse.kt">
+      <created>1725931880394</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931880394</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add PerintahMasukkanKotlin.kt">
+      <created>1725931968025</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725931968025</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +332,9 @@
     <MESSAGE value="add StringTemplates.kt" />
     <MESSAGE value="add FungsiAnggotaString.kt" />
     <MESSAGE value="add PenerapanString.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PenerapanString.kt" />
+    <MESSAGE value="add ProgramCaesarChiper.kt" />
+    <MESSAGE value="add ProgramSandiMorse.kt" />
+    <MESSAGE value="add PerintahMasukkanKotlin.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PerintahMasukkanKotlin.kt" />
   </component>
 </project>
