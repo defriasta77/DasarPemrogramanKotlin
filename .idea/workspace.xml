@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27858161-6dff-41f4-bba8-438d0190a263" name="Changes" comment="add Character.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanEksplisitChar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27858161-6dff-41f4-bba8-438d0190a263" name="Changes" comment="add Boolean.kt">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Boolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725870209959</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add PenerapanEksplisitChar.kt">
+      <created>1725930394901</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725930394901</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add Boolean.kt">
+      <created>1725930469812</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725930469812</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +263,8 @@
     <MESSAGE value="stater project" />
     <MESSAGE value="add KonversiEksplisit.kt" />
     <MESSAGE value="add Character.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Character.kt" />
+    <MESSAGE value="add PenerapanEksplisitChar.kt" />
+    <MESSAGE value="add Boolean.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Boolean.kt" />
   </component>
 </project>
